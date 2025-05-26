@@ -1,0 +1,10 @@
+:root{
+    --yellow : hsl(48, 90%, 55%);
+}
+
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
